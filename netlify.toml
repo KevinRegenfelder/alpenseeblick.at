@@ -1,0 +1,22 @@
+[[redirects]]
+  from = "/index.html"
+  to = "/deutsch"
+  force = true
+
+[[redirects]]
+from = "/defaultsite"
+to = "/deutsch"
+status = 301
+
+
+
+  [[redirects]]
+  from = "/englisch.html"
+  to = "/englisch"
+  force = true
+
+
+  [[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 404
