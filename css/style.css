@@ -1,9 +1,9 @@
 /********** Template CSS **********/
 :root {
-    --primary: #ff824d;
-    --secondary: #e04502;
+    --primary: #e19c25;
+    --secondary: #cd7b17;
     --light: #F0F6FF;
-    --dark: #262B47;
+    --dark: #262626;
 }
 
 
@@ -513,3 +513,9 @@ h6,
         display: none !important;
    }
 }
+
+
+
+.schrift-schreibschrift {
+    font-family: 'Dancing Script', cursive;
+  }
